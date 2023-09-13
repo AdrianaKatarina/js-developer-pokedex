@@ -8,12 +8,9 @@
 
 ### 1. Resumo
 
-Desafio realizado no Curso de Formação JavaScript Developer na DIO com intuito de aplicar os conhecimentos visto até o momento no curso.
+O desafio realizado no Curso de Formação JavaScript Developer na DIO tinha como objetivo aplicar os conhecimentos adquiridos até o momento no curso. O objetivo principal era implementar os detalhes e características dos Pokémons.
 
-O objetivo principal era implementar os detalhes e características sobre os Pokémons.
-
-Para isso, foi criado um modal, onde ao clicar no card irá aparecer as estastísticas relacionada aquele pokémon selecionado.
-Para fechar o modal, basta clicar no botão voltar ou fora do modal.
+Para isso, foi criado um modal em que, ao clicar no card, as estatísticas relacionadas ao Pokémon selecionado serão exibidas. Para fechar o modal, bastava clicar no botão "voltar" ou fora do modal.
 
 <div align="center">
   <img width="600" src="https://github.com/AdrianaKatarina/js-developer-pokedex/assets/122534293/e7c63987-25ef-4c1f-815c-5189dc809808" alt="Imagem do Modal com os detalhes do Pokemon"/>
