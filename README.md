@@ -34,5 +34,5 @@ Adriana Oliveira
 [<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/122534293?v=4" width=100><br>](https://github.com/AdrianaKatarina)
 [![Github Adriana](https://img.shields.io/badge/-AdrianaOliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdrianaKatarina)](https://github.com/AdrianaKatarina)
 [![Linkedin Adriana](https://img.shields.io/badge/-Adriana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adroliveira/)](https://www.linkedin.com/in/adroliveira/)
-[![Gmail Adriana](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dricakatarina@gmail.com)](mailto:dricakatarina@gmail.com)
+[![Gmail Adriana](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianaoliveira.tech@gmail.com)](mailto:adrianaoliveira.tech@gmail.com)
 
